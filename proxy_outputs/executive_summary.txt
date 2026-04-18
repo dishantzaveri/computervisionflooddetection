@@ -1,0 +1,21 @@
+SEN12FLOOD Proxy Label Pipeline - Executive Summary
+Generated at: 2026-03-29T12:08:19
+
+Total samples with severity labels: 2237
+Global severity distribution:
+  Bin 0: 1944 (86.90%)
+  Bin 1: 81 (3.62%)
+  Bin 2: 46 (2.06%)
+  Bin 3: 166 (7.42%)
+
+Top regions by mean severity score:
+  0306: 0.8293
+  0296: 0.8288
+  32: 0.8160
+  0307: 0.8092
+  46: 0.7980
+  6: 0.7893
+  0298: 0.7825
+  0308: 0.7104
+  0301: 0.6866
+  0300: 0.6201

@@ -1,0 +1,32 @@
+# macOS / editor junk
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Large local datasets
+SEN12FLOOD/
+
+# Model artifacts / checkpoints
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Generated evaluation/result files
+*_predictions.csv
+*_summary.csv
+*_metrics.csv
+
+# Optional: keep this if you do NOT want notebooks in git
+# *.ipynb
