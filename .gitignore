@@ -16,6 +16,7 @@ env/
 
 # Large local datasets
 SEN12FLOOD/
+./SEN12FLOOD
 
 # Model artifacts / checkpoints
 *.pth
